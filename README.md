@@ -2,12 +2,13 @@
 
 > [fast-check](https://github.com/dubzzz/fast-check/) is a property based testing framework for JavaScript/TypeScript 
 
-
 ## Contents
 
 - [Articles](#articles)
 - [Videos](#videos)
 - [Packages](#packages)
+
+*Please feel free to open Pull Request to add new resources into this list*
 
 ## Articles
 
