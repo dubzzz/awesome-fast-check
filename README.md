@@ -22,3 +22,5 @@
 - 🇫🇷 [Detecting the unexpected, Let's fuzz UI - Meetup React.js Paris](https://www.youtube.com/watch?v=CiD0khq8uPs) by [dubzzz](https://github.com/dubzzz/)
 
 ## Packages
+
+- [jsverify-to-fast-check](https://www.npmjs.com/package/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
