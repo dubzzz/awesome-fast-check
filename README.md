@@ -26,10 +26,20 @@
 
 *Various packages extending fast-check capabilities*
 
+- [ava-fast-check](https://www.npmjs.com/package/ava-fast-check) - Property based testing for AVA based on fast-check
+- [fp-ts-laws](https://www.npmjs.com/package/fp-ts-laws) - fp-ts type class laws for property based testing
 - [jsverify-to-fast-check](https://www.npmjs.com/package/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
 
 ## Used by
 
-### Open source projects
+### Open source projects (>1k⭐)
 
-*Only projects having more than 1k⭐*
+*Testing themselves with fast-check*
+
+- [aws-cdk](https://github.com/aws/aws-cdk)
+- [fp-ts](https://github.com/gcanti/fp-ts)
+- [jest](https://github.com/facebook/jest)
+- [js-yaml](https://github.com/nodeca/js-yaml)
+- [list](https://github.com/funkia/list)
+- [query-string](https://github.com/sindresorhus/query-string)
+- [regulex](https://github.com/CJex/regulex)
