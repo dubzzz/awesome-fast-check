@@ -28,4 +28,6 @@
 
 ## Used by
 
-### Open source projects (+1k⭐)
+### Open source projects
+
+*Only projects having more than 1k⭐*
