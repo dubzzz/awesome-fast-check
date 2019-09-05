@@ -24,6 +24,8 @@
 
 ## Packages
 
+*Various packages extending fast-check capabilities*
+
 - [jsverify-to-fast-check](https://www.npmjs.com/package/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
 
 ## Used by
