@@ -7,6 +7,7 @@
 - [Articles](#articles)
 - [Videos](#videos)
 - [Packages](#packages)
+- [Used by](#used-by)
 
 *Please feel free to open Pull Request to add new resources into this list*
 
@@ -24,3 +25,7 @@
 ## Packages
 
 - [jsverify-to-fast-check](https://www.npmjs.com/package/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
+
+## Used by
+
+### Open source projects (+1k⭐)
