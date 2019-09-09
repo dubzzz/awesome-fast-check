@@ -28,6 +28,7 @@
 *Various packages extending fast-check capabilities*
 
 - [ava-fast-check](https://www.npmjs.com/package/ava-fast-check) - Property based testing for AVA based on fast-check
+- [fast-check-io-ts](https://github.com/giogonzo/fast-check-io-ts) - io-ts codec to fast-check arbitrary mapping
 - [fp-ts-laws](https://www.npmjs.com/package/fp-ts-laws) - fp-ts type class laws for property based testing
 - [json-schema-fast-check](https://github.com/unmock/json-schema-fast-check) - transform [JSON Schema](https://json-schema.org) into fast-check arbitraries
 - [jsverify-to-fast-check](https://www.npmjs.com/package/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
