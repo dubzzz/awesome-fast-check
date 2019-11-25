@@ -27,7 +27,7 @@
 
 *Various packages extending fast-check capabilities*
 
-- [ava-fast-check](Discover laws in your code like with QuickSpec ) - Property based testing for AVA based on fast-check
+- [ava-fast-check](https://github.com/dubzzz/ava-fast-check) - Property based testing for AVA based on fast-check
 - [fast-check-io-ts](https://github.com/giogonzo/fast-check-io-ts) - io-ts codec to fast-check arbitrary mapping
 - [fast-spec](https://github.com/dubzzz/fast-spec) - Discover laws in your code like with QuickSpec
 - [fp-ts-laws](https://github.com/gcanti/fp-ts-laws) - fp-ts type class laws for property based testing
