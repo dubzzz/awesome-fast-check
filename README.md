@@ -33,6 +33,7 @@
 - [fp-ts-laws](https://github.com/gcanti/fp-ts-laws) - fp-ts type class laws for property based testing
 - [json-schema-fast-check](https://github.com/unmock/json-schema-fast-check) - transform [JSON Schema](https://json-schema.org) into fast-check arbitraries
 - [jsverify-to-fast-check](https://github.com/dubzzz/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
+- [graphql-codegen-fast-check](https://github.com/danieljharvey/graphql-codegen-fast-check) - Transform GraphQL schemas into fast-check arbitraries
 
 ## Used by
 
