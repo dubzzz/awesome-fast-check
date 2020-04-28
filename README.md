@@ -49,3 +49,4 @@
 - [list](https://github.com/funkia/list)
 - [query-string](https://github.com/sindresorhus/query-string)
 - [regulex](https://github.com/CJex/regulex)
+- [tinymce](https://github.com/tinymce/tinymce)
