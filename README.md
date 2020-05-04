@@ -43,6 +43,7 @@
 
 - [aws-cdk](https://github.com/aws/aws-cdk)
 - [fp-ts](https://github.com/gcanti/fp-ts)
+- [io-ts](https://github.com/gcanti/io-ts)
 - [jasmine](https://github.com/jasmine/jasmine)
 - [jest](https://github.com/facebook/jest)
 - [js-yaml](https://github.com/nodeca/js-yaml)
