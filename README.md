@@ -20,6 +20,7 @@
 ## Videos
 
 - 🇬🇧 [Modelling Dependencies via Generative Properties - Bristol JS](https://www.youtube.com/watch?v=ShlC4Ag2URI) by [willheslam](https://github.com/willheslam)
+- 🇬🇧 [Detecting the unexpected in React applications - React Europe 2020](https://www.youtube.com/watch?list=PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl&v=GIPbY75-lEo&feature=emb_logo) by [dubzzz](https://github.com/dubzzz/)
 - 🇫🇷 [Property Based Testing, from theory to practice - BestOfWeb 2019](https://youtu.be/GigiViV-GFk) by [dubzzz](https://github.com/dubzzz/)
 - 🇫🇷 [Detecting the unexpected, Let's fuzz UI - Meetup React.js Paris](https://www.youtube.com/watch?v=CiD0khq8uPs) by [dubzzz](https://github.com/dubzzz/)
 
