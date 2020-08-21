@@ -13,9 +13,10 @@
 
 ## Articles
 
-- 🇬🇧 [Introduction to Property Based Testing](https://medium.com/criteo-labs/introduction-to-property-based-testing-f5236229d237) by [dubzzz](https://github.com/dubzzz/)
-- 🇬🇧 [Find the best properties for Property Based Testing](https://medium.com/@nicolasdubien/find-the-best-properties-for-property-based-testing-ee2ed9d442e1) by [dubzzz](https://github.com/dubzzz/)
 - 🇬🇧 [Detecting the unexpected in (Web) UI](https://medium.com/criteo-labs/detecting-the-unexpected-in-web-ui-fuzzing-1f3822c8a3a5) by [dubzzz](https://github.com/dubzzz/)
+- 🇬🇧 [Find the best properties for Property Based Testing](https://medium.com/@nicolasdubien/find-the-best-properties-for-property-based-testing-ee2ed9d442e1) by [dubzzz](https://github.com/dubzzz/)
+- 🇬🇧 [Introduction to Property Based Testing](https://dev.to/gcanti/introduction-to-property-based-testing-17nk) by [gcanti](https://github.com/gcanti/)
+- 🇬🇧 [Introduction to Property Based Testing](https://medium.com/criteo-labs/introduction-to-property-based-testing-f5236229d237) by [dubzzz](https://github.com/dubzzz/)
 - 🇬🇧 [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2) by [carolstran](https://github.com/carolstran/)
 
 ## Videos
