@@ -52,5 +52,6 @@
 - [js-yaml](https://github.com/nodeca/js-yaml)
 - [list](https://github.com/funkia/list)
 - [query-string](https://github.com/sindresorhus/query-string)
+- [ramda](https://github.com/ramda/ramda)
 - [regulex](https://github.com/CJex/regulex)
 - [tinymce](https://github.com/tinymce/tinymce)
