@@ -37,6 +37,7 @@
 - [json-schema-fast-check](https://github.com/unmock/json-schema-fast-check) - transform [JSON Schema](https://json-schema.org) into fast-check arbitraries
 - [jsverify-to-fast-check](https://github.com/dubzzz/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
 - [graphql-codegen-fast-check](https://github.com/danieljharvey/graphql-codegen-fast-check) - Transform GraphQL schemas into fast-check arbitraries
+- [zod-fast-check](https://github.com/DavidTimms/zod-fast-check)  - generate fast-check arbitraries from schemas defined using the validation library [Zod](https://github.com/colinhacks/zod)
 
 ## Used by
 
