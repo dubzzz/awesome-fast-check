@@ -34,9 +34,10 @@
 - [fast-check-io-ts](https://github.com/giogonzo/fast-check-io-ts) - io-ts codec to fast-check arbitrary mapping
 - [fast-spec](https://github.com/dubzzz/fast-spec) - Discover laws in your code like with QuickSpec
 - [fp-ts-laws](https://github.com/gcanti/fp-ts-laws) - fp-ts type class laws for property based testing
+- [graphql-codegen-fast-check](https://github.com/danieljharvey/graphql-codegen-fast-check) - Transform GraphQL schemas into fast-check arbitraries
 - [json-schema-fast-check](https://github.com/unmock/json-schema-fast-check) - transform [JSON Schema](https://json-schema.org) into fast-check arbitraries
 - [jsverify-to-fast-check](https://github.com/dubzzz/jsverify-to-fast-check) - Set of tools and helpers to help JSVerify users to migrate to fast-check
-- [graphql-codegen-fast-check](https://github.com/danieljharvey/graphql-codegen-fast-check) - Transform GraphQL schemas into fast-check arbitraries
+- [mock-data-gen](https://github.com/kaeluka/mock-data-gen) - Map io-ts to fast-check arbitraries with flexible support for extending generated data.
 - [zod-fast-check](https://github.com/DavidTimms/zod-fast-check)  - generate fast-check arbitraries from schemas defined using the validation library [Zod](https://github.com/colinhacks/zod)
 
 ## Used by
