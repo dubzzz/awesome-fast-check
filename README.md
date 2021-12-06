@@ -18,6 +18,8 @@
 - 🇬🇧 [Introduction to Property Based Testing](https://dev.to/gcanti/introduction-to-property-based-testing-17nk) by [gcanti](https://github.com/gcanti/)
 - 🇬🇧 [Introduction to Property Based Testing](https://medium.com/criteo-labs/introduction-to-property-based-testing-f5236229d237) by [dubzzz](https://github.com/dubzzz/)
 - 🇬🇧 [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2) by [carolstran](https://github.com/carolstran/)
+- 🇬🇧 [How to get started with property-based testing in JavaScript using fast-check](https://jrsinclair.com/articles/2021/how-to-get-started-with-property-based-testing-in-javascript-with-fast-check/) by [jrsinclair](https://github.com/jrsinclair)
+- 🇬🇧 [How not to write property tests in JavaScript](https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/) by [jrsinclair](https://github.com/jrsinclair)
 
 ## Videos
 
