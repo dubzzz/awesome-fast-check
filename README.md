@@ -13,18 +13,18 @@
 
 ## Articles
 
-- 🇬🇧 [Detecting the unexpected in (Web) UI](https://medium.com/criteo-labs/detecting-the-unexpected-in-web-ui-fuzzing-1f3822c8a3a5) by [dubzzz](https://github.com/dubzzz/)
-- 🇬🇧 [Find the best properties for Property Based Testing](https://medium.com/@nicolasdubien/find-the-best-properties-for-property-based-testing-ee2ed9d442e1) by [dubzzz](https://github.com/dubzzz/)
-- 🇬🇧 [Introduction to Property Based Testing](https://dev.to/gcanti/introduction-to-property-based-testing-17nk) by [gcanti](https://github.com/gcanti/)
-- 🇬🇧 [Introduction to Property Based Testing](https://medium.com/criteo-labs/introduction-to-property-based-testing-f5236229d237) by [dubzzz](https://github.com/dubzzz/)
-- 🇬🇧 [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2) by [carolstran](https://github.com/carolstran/)
+- **[en]** [Detecting the unexpected in (Web) UI](https://medium.com/criteo-labs/detecting-the-unexpected-in-web-ui-fuzzing-1f3822c8a3a5) by [dubzzz](https://github.com/dubzzz/)
+- **[en]** [Find the best properties for Property Based Testing](https://medium.com/@nicolasdubien/find-the-best-properties-for-property-based-testing-ee2ed9d442e1) by [dubzzz](https://github.com/dubzzz/)
+- **[en]** [Introduction to Property Based Testing](https://dev.to/gcanti/introduction-to-property-based-testing-17nk) by [gcanti](https://github.com/gcanti/)
+- **[en]** [Introduction to Property Based Testing](https://medium.com/criteo-labs/introduction-to-property-based-testing-f5236229d237) by [dubzzz](https://github.com/dubzzz/)
+- **[en]** [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2) by [carolstran](https://github.com/carolstran/)
 
 ## Videos
 
-- 🇬🇧 [Modelling Dependencies via Generative Properties - Bristol JS](https://www.youtube.com/watch?v=ShlC4Ag2URI) by [willheslam](https://github.com/willheslam)
-- 🇬🇧 [Detecting the unexpected in React applications - React Europe 2020](https://www.youtube.com/watch?list=PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl&v=GIPbY75-lEo&feature=emb_logo) by [dubzzz](https://github.com/dubzzz/)
-- 🇫🇷 [Property Based Testing, from theory to practice - BestOfWeb 2019](https://youtu.be/GigiViV-GFk) by [dubzzz](https://github.com/dubzzz/)
-- 🇫🇷 [Detecting the unexpected, Let's fuzz UI - Meetup React.js Paris](https://www.youtube.com/watch?v=CiD0khq8uPs) by [dubzzz](https://github.com/dubzzz/)
+- **[en]** [Modelling Dependencies via Generative Properties - Bristol JS](https://www.youtube.com/watch?v=ShlC4Ag2URI) by [willheslam](https://github.com/willheslam)
+- **[en]** [Detecting the unexpected in React applications - React Europe 2020](https://www.youtube.com/watch?list=PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl&v=GIPbY75-lEo&feature=emb_logo) by [dubzzz](https://github.com/dubzzz/)
+- **[fr]** [Property Based Testing, from theory to practice - BestOfWeb 2019](https://youtu.be/GigiViV-GFk) by [dubzzz](https://github.com/dubzzz/)
+- **[fr]** [Detecting the unexpected, Let's fuzz UI - Meetup React.js Paris](https://www.youtube.com/watch?v=CiD0khq8uPs) by [dubzzz](https://github.com/dubzzz/)
 
 ## Packages
 
